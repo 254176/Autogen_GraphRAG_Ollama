@@ -1,8 +1,8 @@
-litellm[proxy]
-ollama
-pyautogen[retrievechat]
-tiktoken
-chainlit
-graphrag
-marker-pdf
-torch
+litellm[proxy]==1.50.0
+ollama==0.3.3
+pyautogen[retrievechat]==0.3.1
+tiktoken==0.7.0
+chainlit==1.2.0
+graphrag==0.3.6
+marker-pdf==0.3.1
+torch==2.5.0
